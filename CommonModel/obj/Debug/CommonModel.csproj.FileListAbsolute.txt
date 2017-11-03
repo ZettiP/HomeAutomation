@@ -1,0 +1,5 @@
+C:\Projects\Project_J\HomeAutomation\CommonModel\bin\Debug\CommonModel.dll
+C:\Projects\Project_J\HomeAutomation\CommonModel\bin\Debug\CommonModel.pdb
+C:\Projects\Project_J\HomeAutomation\CommonModel\obj\Debug\CommonModel.csprojResolveAssemblyReference.cache
+C:\Projects\Project_J\HomeAutomation\CommonModel\obj\Debug\CommonModel.dll
+C:\Projects\Project_J\HomeAutomation\CommonModel\obj\Debug\CommonModel.pdb
